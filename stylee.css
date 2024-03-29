@@ -1,0 +1,120 @@
+.qq{
+    color: blue;
+    font-style: bold;
+}
+.btn-outline-success{
+    background-color: blue;
+    border-color: blue;
+    color: aliceblue;
+}
+.main{
+    margin-top: 40px;
+}
+.tyu{
+color: blue;
+
+}
+.heading{
+    padding-top: 50px;
+}
+.pera{
+    color: rgb(180, 173, 173);
+}
+.btn-primary{
+    background-color: blue;
+    color: white;
+}
+.btn-light{
+    background-color: rgb(238, 231, 231);
+}
+.pics{
+    width: 578px;
+}
+
+.pic2{
+    width: 550px;
+    height: 500px;
+}
+.main2a{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding-top: 10px;
+    background-color: rgb(243, 237, 237);
+}
+.uio{
+    width: 70px;
+    height: 80px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background-color: rgb(173, 101, 101);
+}
+.NHG{
+   color: rgb(74, 161, 219);
+    font-size: 40px;
+}
+
+.jkl{
+    font-size: 10px;
+}
+.bnm{
+    color: rgb(230, 171, 46);
+    font-size: 40px;
+}
+.bvc{
+    color: rgb(112, 12, 99);
+    font-size: 40px;
+}
+.hdg{
+color: #000000;
+}
+.hiba{
+    color: blue;
+    border: 1px solid rgb(150, 207, 224);
+    background-color: rgb(255, 255, 255);
+}
+.zee{
+    background-color: whitesmoke;
+}
+.hibo{
+    font-size: 35px;
+    background-color: rgb(204, 236, 225);
+    color: rgb(120, 169, 235);
+    border-radius: 10px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+.hiboo{
+    font-size: 35px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+.hibba{
+    font-size: 35px;
+    background-color:rgb(245, 215, 180);
+    color: orange;
+    border-radius: 10px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+
+
+
